@@ -6,6 +6,8 @@
 
 0226晚开会内容：互相确认各自可投入时间及日程安排的重合部分，完成远程协作的环境调试。
 
+加入 Zoom 会议 https://us05web.zoom.us/j/82706961031?pwd=R2ozTVBaNEFyQTNrc0FyYVhQVEtjUT09 会议号：827 0696 1031 密码：1ejfRr
+
 分享平台：优先git，微云备用https://share.weiyun.com/zrvkLT9Z-g
 
 ——————————————————————

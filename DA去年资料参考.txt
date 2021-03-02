@@ -1,0 +1,3 @@
+https://www.kaggle.com/rareloto/matrix-marketing-analytics-xgboost 非常完善
+https://www.kaggle.com/mylee2009/marketing-analytics 不平衡数据的处理
+https://www.kaggle.com/zintun/logistics-step-by-step-approach 按规则处理数据并映射
