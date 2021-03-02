@@ -1,3 +1,4 @@
 https://www.kaggle.com/rareloto/matrix-marketing-analytics-xgboost 非常完善
 https://www.kaggle.com/mylee2009/marketing-analytics 不平衡数据的处理
-https://www.kaggle.com/zintun/logistics-step-by-step-approach 按规则处理数据并映射
+https://www.kaggle.com/zintun/logistics-step-by-step-approach 按规则处理数据并映射 （这个答案是不正确的）
+https://www.kaggle.com/afenzdkyayqyydsbsuyj/1-00-optimized-logistics-solution-30sec/output 结果正确且迅速
