@@ -15,6 +15,5 @@ class Solution:
                 num -= 1
             count += 1
         return count
-
 ans = Solution()
 print(ans.numberOfSteps(123))
