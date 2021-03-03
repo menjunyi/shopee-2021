@@ -1,1 +1,10 @@
 # Created by .ignore support plugin (hsz.mobi)
+.idea/.gitignore
+.idea/inspectionProfiles/
+.idea/markdown-navigator-enh.xml
+.idea/markdown-navigator.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/shopee-2021.iml
+.idea/vcs.xml
+venv/
